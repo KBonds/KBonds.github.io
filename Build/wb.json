@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "p1_zelda",
-"dataUrl": "WebBuild.data.unityweb",
-"wasmCodeUrl": "WebBuild.wasm.code.unityweb",
-"wasmFrameworkUrl": "WebBuild.wasm.framework.unityweb",
+"dataUrl": "wb.data.unityweb",
+"wasmCodeUrl": "wb.wasm.code.unityweb",
+"wasmFrameworkUrl": "wb.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
